@@ -44,3 +44,10 @@ Menu LOTOFÁCIL:
 ## Execução
 
 Para executar o sistema, basta compilar os arquivos Java e executar o arquivo principal. O sistema mostrará o menu Lotofácil, onde o jogador poderá fazer suas apostas.
+
+### Exemplo
+
+
+https://github.com/JoaoVitorRC1/ProjetoLotofacil/assets/143137195/3c87b6ca-be81-452e-a13c-877dec29e613
+
+
